@@ -1,0 +1,17 @@
+#I worked on a virtual environment. On MacOS also use : brew install ... 
+#pip3 or pip or brew or sudo apt etc...
+#run line by line
+pip3 install os
+pip3 install sounddevice
+pip3 install numpy 
+pip3 install shutil
+pip3 install scipy.io
+pip3 install librosa
+pip3 install pydub
+pip3 install pandas 
+pip3 install tensorflow 
+pip3 install  sklearn 
+pip3 install keras 
+pip3 install seaborn 
+pip3 install argparse 
+
